@@ -5,7 +5,7 @@
 <br />
 <div align="center">
   
-  <h3 align="center">Title</h3>
+  <h3 align="center">Miguel</h3>
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
