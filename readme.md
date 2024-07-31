@@ -56,7 +56,7 @@
 
 <!-- TODO: To be changed -->
 <!-- The following are just sample -->
- This repository is to show case different design of header and footer ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) and ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+ This repository is to show case different design of header and footer.The styles include static and animated designs to provide a diverse range of options for web developers.  ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) and ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
  
 
 ### Key Components
