@@ -63,6 +63,7 @@
 <!-- TODO: List of Key Components -->
 <!-- The following are just sample -->
 - MultiPage Website
+- Static and Animated Headers & Footers
 
 
 ### Technology
